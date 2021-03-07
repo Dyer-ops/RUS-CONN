@@ -5,7 +5,7 @@
   <Trunken_hediff_Zoom.labelNoun>бионический глаз</Trunken_hediff_Zoom.labelNoun>
 
   <Trunken_hediff_EnergyFist.label>энергокулак</Trunken_hediff_EnergyFist.label>
-  <Trunken_hediff_EnergyFist.description>Боевая замена кисти. Она состоит из технологичной руки и встроенной накачивающей системы внутри запястья. Эта система позволяет совершать быстрые и контролируемые удары. Механический регулятор позволяет контролировать мощность при помощи дополнительных усилителей, связанных нейроконнектора и питаемых от ультратехнологичной микробатареи.</Trunken_hediff_EnergyFist.description>
+  <Trunken_hediff_EnergyFist.description>Боевая замена кисти, состоящая из технологичной руки и встроенной накачивающей системы внутри запястья. Эта система позволяет совершать быстрые, контролируемые удары. Механический регулятор определяет мощность удара при помощи дополнительных усилителей, связанных с нейроконнектором и питаемых от ультратехнологичной микробатареи.</Trunken_hediff_EnergyFist.description>
   <Trunken_hediff_EnergyFist.comps.0.tools.0.label>рука</Trunken_hediff_EnergyFist.comps.0.tools.0.label>
   <Trunken_hediff_EnergyFist.labelNoun>энергокулак</Trunken_hediff_EnergyFist.labelNoun>
 
@@ -18,10 +18,10 @@
   <Trunken_hediff_CyclopsVisor.labelNoun>визор «Циклоп»</Trunken_hediff_CyclopsVisor.labelNoun>
 
   <Trunken_hediff_LaserDetection.label>лазерное обнаружение</Trunken_hediff_LaserDetection.label>
-  <Trunken_hediff_LaserDetection.description>Лазерное устройство обнаружения, установленное рядом с ухом. Лазер сканирует окружение и отображает все важные данные с на дисплее перед глазом. Улучшает зрение, в том числе при обнаружении целей. И стильно подсвечивает важные объекты.</Trunken_hediff_LaserDetection.description>
+  <Trunken_hediff_LaserDetection.description>Лазерное устройство обнаружения, установленное рядом с ухом. Лазер сканирует окружение и отображает все важные данные на дисплее перед глазом. Улучшает зрение, в том числе при обнаружении целей. И стильно подсвечивает важные объекты.</Trunken_hediff_LaserDetection.description>
   <Trunken_hediff_LaserDetection.labelNoun>лазерное устройство обнаружения</Trunken_hediff_LaserDetection.labelNoun>
 
   <Trunken_hediff_SensoricEarside.label>сенсорный блок</Trunken_hediff_SensoricEarside.label>
-  <Trunken_hediff_SensoricEarside.description>Сенсорное слушающее устройство и система захвата целей, заменяющие ухо. Позволяет услышать даже самые тихие и далёкие звуки.</Trunken_hediff_SensoricEarside.description>
+  <Trunken_hediff_SensoricEarside.description>Сенсорное слуховое устройство с системой захвата целей, заменяющее ухо. Позволяет слышать даже самые тихие и далёкие звуки.</Trunken_hediff_SensoricEarside.description>
   <Trunken_hediff_SensoricEarside.labelNoun>сенсорный блок</Trunken_hediff_SensoricEarside.labelNoun>
 </LanguageData>
